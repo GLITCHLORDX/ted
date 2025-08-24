@@ -1,0 +1,22 @@
+{
+  "name": "pixelnote-palace-fixed",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-konva": "^18.0.3",
+    "konva": "^9.2.0",
+    "pdfjs-dist": "^4.4.168",
+    "dexie": "^3.2.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
